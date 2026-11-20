@@ -1,5 +1,1 @@
-bin/
-obj/
-.vs/
-Servers/
-*.user
+.DS_Store
